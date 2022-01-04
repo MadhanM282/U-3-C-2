@@ -1,0 +1,30 @@
+body{
+    background: black;
+    color: white;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+    
+}
+.main>div{
+    background: rgb(53, 52, 52);
+    border-radius: 10px;
+    text-align: center;
+}
+.main>div>h3{
+    text-align: left;
+    margin-left: 20px;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0px;
+    padding: 5px 20px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    background: turquoise;
+}

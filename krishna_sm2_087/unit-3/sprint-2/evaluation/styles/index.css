@@ -1,0 +1,20 @@
+.nav{
+            width: 90%;
+            height: 50px;
+            margin: auto;
+            background-color: rgb(29, 29, 29);
+            color: white;
+            border-radius: 10px;
+
+        }
+        .navlist{
+            display: flex;
+            justify-content: right;
+        }
+        .navlist>h2{
+            margin-left: 30px;
+            margin-right: 20px;
+            /* border: 1px solid red; */
+            margin-top: 10px;
+            
+        }

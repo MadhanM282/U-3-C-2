@@ -1,0 +1,52 @@
+
+body{
+    background: black;
+    color: white;
+}
+.cart{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+.cart>div{
+    background: rgb(53, 52, 52);
+    border-radius: 10px;
+    text-align: center;
+}
+.cart>div>h3{
+    text-align: left;
+    margin-left: 20px;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0px;
+    padding: 5px 20px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+    background: turquoise;
+}
+.total{
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    border: 1px solid rgb(46, 45, 45);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.button{
+    margin-left: 45%;
+    
+}
+.price{
+    height: 60px;
+    /* border: 1px solid red; */
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+}
+

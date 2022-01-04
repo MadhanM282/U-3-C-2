@@ -1,0 +1,44 @@
+body{
+    background: black;
+    color: white;
+}
+.pay{
+    margin: auto;
+    width: 500px;
+    height: 200px;
+    /* border: 1px solid; */
+    margin-top: 30px;
+}
+
+
+.one>input{
+    width: 45%;
+    height: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.two>input{
+    width: 45%;
+    height: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+
+    border-radius: 10px;
+    margin-left: 10px;
+}
+form>input{
+width: 45%;
+    height: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+
+    border-radius: 10px;
+    margin-left: 10px;  
+
+}
+.order{
+    background: orange;
+    border: 0px;
+}
